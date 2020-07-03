@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/scylladb/termtables"
-	"github.com/araddon/dateparse"
+	"github.com/solidmetanoia/dateparse"
 )
 
 var examples = []string{
